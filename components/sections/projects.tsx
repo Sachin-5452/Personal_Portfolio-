@@ -18,7 +18,7 @@ const projects = [
     description:
       "Pioneered an AI-driven pipeline that transforms flat architectural drawings into immersive, data-accurate 3D models using deep learning, bridging the gap between design concepts and tangible visualization for architects and designers.",
     tech: ["Python", "Deep Learning", "OpenCV", "TensorFlow", "Three.js"],
-    github: "https://github.com",
+    github: "https://github.com/Sachin-5452/Automated-3d-vizualization-using-2d-blueprints-.git",
     live: "https://example.com",
     featured: true,
   },
