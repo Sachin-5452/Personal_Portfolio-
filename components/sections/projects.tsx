@@ -9,7 +9,7 @@ const projects = [
     description:
       "Built an intelligent Python-based chatbot leveraging NLP and third-party APIs to deliver personalized food recommendations, featuring a user-friendly interface with core functionalities like menu suggestions, dietary filtering, and order tracking.",
     tech: ["Python", "NLP", "REST APIs", "Flask", "MongoDB"],
-    github: "https://github.com",
+    github: "https://github.com/Sachin-5452/food-recommendation-chatbot.git",
     live: "https://example.com",
     featured: true,
   },
